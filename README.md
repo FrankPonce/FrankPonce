@@ -18,7 +18,7 @@
 
 I'm a data science master's student in the **Erasmus Mundus EDISS** programme at Åbo Akademi University in Turku, with a BS in Computer Science from FIU. I use data and AI to help organisations make better strategic decisions: spotting market shifts earlier, understanding competitors, and rethinking how teams work with AI.
 
-- ⚡ Recently built **Tasehinta** at Since AI 2026, a forecast and situation-room dashboard for Turku Energia's electricity traders, **36.7 % better** than the organisers' baseline
+- 🏆 **Won the Turku Energia challenge** at Since AI 2026 and reached the **top 5 finalists** overall with **Tasehinta**, a forecast and situation-room dashboard for electricity traders, 36.7 % better than the organisers' baseline
 - 🤖 Built **n8n AI agents** for market-trend and competitor intelligence during my Wayfair externship
 - 🧪 Evaluated **multimodal AI agents** at Invisible Technologies
 - 📄 Published research on **reinforcement learning** for post-disaster road restoration
@@ -30,6 +30,7 @@ I'm a data science master's student in the **Erasmus Mundus EDISS** programme at
 <td width="50%" valign="top">
 <a href="https://frankponce.dev/work/tasehinta-imbalance-price-forecasting-turku-energia/"><img src="https://frankponce.dev/images/projects/tasehinta-dashboard.jpg" alt="Tasehinta dashboard" width="100%"/></a>
 <h3>⚡ Tasehinta</h3>
+<b>🏆 Winner, Turku Energia challenge · Top 5 finalist, Since AI 2026</b><br/><br/>
 AI decision support for Turku Energia: forecasts the Finnish imbalance price 10 hours ahead every 15 minutes, with risk alerts and the reasons behind them.<br/><br/>
 <a href="https://tasehinta.lovable.app"><img src="https://img.shields.io/badge/Live%20dashboard-E3242B?style=flat-square" alt="Live dashboard"/></a>
 <a href="https://github.com/Rdog69/turku-energy-since-ai"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
