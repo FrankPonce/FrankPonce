@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1b1b,60:5a1418,100:E3242B&height=210&section=header&text=Frank%20Ponce&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%2C%20AI%20and%20business%20strategy&descSize=20&descAlignY=58&animation=fadeIn" alt="Frank Ponce" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1b1b,60:5a1418,100:E3242B&height=210&section=header&text=Frank%20Ponce&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%2C%20AI%20and%20business%20strategy&descSize=20&descAlignY=58&animation=fadeIn" alt="★ 𝕱𝖗𝖆𝖓𝖐 𝕻𝖔𝖓𝖈𝖊 ★" width="100%"/>
 
 <a href="https://frankponce.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3242B&center=true&vCenter=true&width=640&lines=Data+Science+MSc+%E2%80%94+Erasmus+Mundus+EDISS%2C+%C3%85bo+Akademi;Turning+data+and+AI+into+business+decisions;AI+agents%2C+forecasts+and+dashboards+people+actually+use" alt="Data Science MSc, Erasmus Mundus EDISS. Turning data and AI into business decisions."/>
