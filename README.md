@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://frankponce.dev"><img src="https://img.shields.io/badge/Portfolio-frankponce.dev-E3242B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/frank-mediavilla"><img src="https://img.shields.io/badge/LinkedIn-frank--mediavilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/frank-mediavilla"><img src="https://img.shields.io/badge/LinkedIn-Frank%20Ponce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Frank.MediavillaPonce@abo.fi"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1c1b1b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
