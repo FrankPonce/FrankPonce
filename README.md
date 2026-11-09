@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1b1b,60:5a1418,100:E3242B&height=210&section=header&text=⋆.˚★%20𝕱𝖗𝖆𝖓𝖐%20𝕻𝖔𝖓𝖈𝖊%20★˚.⋆&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%2C%20AI%20and%20business%20strategy&descSize=20&descAlignY=58&animation=fadeIn" alt="Frank Ponce" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1b1b,60:5a1418,100:E3242B&height=210&section=header&text=Frank%20Ponce&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%2C%20AI%20and%20business%20strategy&descSize=20&descAlignY=58&animation=fadeIn" alt="Frank Ponce" width="100%"/>
 
 <a href="https://frankponce.dev">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3242B&center=true&vCenter=true&width=640&lines=Data+Science+MSc+%E2%80%94+Erasmus+Mundus+EDISS%2C+%C3%85bo+Akademi;Turning+data+and+AI+into+business+decisions;AI+agents%2C+forecasts+and+dashboards+people+actually+use" alt="Data Science MSc, Erasmus Mundus EDISS. Turning data and AI into business decisions."/>
@@ -47,7 +47,7 @@ Four n8n agents for trend discovery, competitor monitoring and content strategy,
 <td width="50%" valign="top">
 <a href="https://frankponce.dev/work/cadetx-competitor-demand-prediction-using-job-postings/"><img src="https://frankponce.dev/images/projects/cadetx.jpg" alt="Competitor demand prediction" width="100%"/></a>
 <h3>📈 Competitor demand prediction</h3>
-NLP and forecasting on public job postings to read competitors' growth plans, built by a four-person team (in progress).<br/><br/>
+NLP and forecasting on 4,900+ public job postings from Google, OpenAI, NVIDIA and Anthropic to read where each is heading (in progress).<br/><br/>
 <a href="https://github.com/FrankPonce/competitor-demand-prediction"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
 <a href="https://frankponce.dev/work/cadetx-competitor-demand-prediction-using-job-postings/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
 </td>
