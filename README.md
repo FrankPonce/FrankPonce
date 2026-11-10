@@ -52,11 +52,12 @@ NLP and forecasting on 4,900+ public job postings from Google, OpenAI, NVIDIA an
 <a href="https://frankponce.dev/work/cadetx-competitor-demand-prediction-using-job-postings/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://frankponce.dev/work/data-analyst-portfolio/"><img src="https://frankponce.dev/images/projects/british-airways-tableau.png" alt="Tableau and Power BI dashboards" width="100%"/></a>
-<h3>📊 BI dashboards</h3>
-Interactive Tableau and Power BI dashboards, from British Airways customer reviews to Cyclistic bike-share behaviour.<br/><br/>
-<a href="https://frankponce.dev/work/data-analyst-portfolio/"><img src="https://img.shields.io/badge/Live%20dashboards-E3242B?style=flat-square" alt="Live dashboards"/></a>
-<a href="https://github.com/FrankPonce/Data-Insight-Dashboards"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
+<a href="https://frankponce.dev/work/vista-trade/"><img src="https://frankponce.dev/images/projects/vistatrade-dashboard.jpg" alt="VistaTrade dashboard" width="100%"/></a>
+<h3>💸 VistaTrade</h3>
+A free paper-trading and learning platform: live US stock prices, $10,000 of virtual money, an 8-lesson beginner course and a LightGBM forecast tested against simple baselines.<br/><br/>
+<a href="https://vista-trade.vercel.app"><img src="https://img.shields.io/badge/Live%20app-E3242B?style=flat-square" alt="Live app"/></a>
+<a href="https://github.com/FrankPonce/VistaTrade"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
+<a href="https://frankponce.dev/work/vista-trade/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
 </td>
 </tr>
 </table>
