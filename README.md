@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1b1b,60:5a1418,100:E3242B&height=210&section=header&text=⋆.˚★𝕱𝖗𝖆𝖓𝖐%20𝕻𝖔𝖓𝖈𝖊★˚.⋆&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%2C%20AI%20and%20business%20strategy&descSize=20&descAlignY=58&animation=fadeIn" alt="Frank Ponce" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1b1b,60:5a1418,100:DC143C&height=210&section=header&text=⋆.˚★𝕱𝖗𝖆𝖓𝖐%20𝕻𝖔𝖓𝖈𝖊★˚.⋆&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Data%2C%20AI%20and%20business%20strategy&descSize=20&descAlignY=58&animation=fadeIn" alt="Frank Ponce" width="100%"/>
 
 <a href="https://frankponce.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=E3242B&center=true&vCenter=true&width=640&lines=Data+Science+MSc+%E2%80%94+Erasmus+Mundus+EDISS%2C+%C3%85bo+Akademi;Turning+data+and+AI+into+business+decisions;AI+agents%2C+forecasts+and+dashboards+people+actually+use" alt="Data Science MSc, Erasmus Mundus EDISS. Turning data and AI into business decisions."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=900&color=DC143C&center=true&vCenter=true&width=640&lines=Data+Science+MSc+%E2%80%94+Erasmus+Mundus+EDISS%2C+%C3%85bo+Akademi;Turning+data+and+AI+into+business+decisions;AI+agents%2C+forecasts+and+dashboards+people+actually+use" alt="Data Science MSc, Erasmus Mundus EDISS. Turning data and AI into business decisions."/>
 </a>
 
 <br/>
 
-<a href="https://frankponce.dev"><img src="https://img.shields.io/badge/Portfolio-frankponce.dev-E3242B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://frankponce.dev"><img src="https://img.shields.io/badge/Portfolio-frankponce.dev-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/frank-mediavilla"><img src="https://img.shields.io/badge/LinkedIn-Frank%20Ponce-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Frank.MediavillaPonce@abo.fi"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-1c1b1b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -32,7 +32,7 @@ I'm a data science master's student in the **Erasmus Mundus EDISS** programme at
 <h3>⚡ Tasehinta</h3>
 <b>🏆 Winner, Turku Energia challenge · Top 5 finalist, Since AI 2026</b><br/><br/>
 AI decision support for Turku Energia: forecasts the Finnish imbalance price 10 hours ahead every 15 minutes, with risk alerts and the reasons behind them.<br/><br/>
-<a href="https://tasehinta.lovable.app"><img src="https://img.shields.io/badge/Live%20dashboard-E3242B?style=flat-square" alt="Live dashboard"/></a>
+<a href="https://tasehinta.lovable.app"><img src="https://img.shields.io/badge/Live%20dashboard-DC143C?style=flat-square" alt="Live dashboard"/></a>
 <a href="https://github.com/Rdog69/turku-energy-since-ai"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
 <a href="https://frankponce.dev/work/tasehinta-imbalance-price-forecasting-turku-energia/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
 </td>
@@ -40,7 +40,7 @@ AI decision support for Turku Energia: forecasts the Finnish imbalance price 10 
 <a href="https://frankponce.dev/work/wayfair-ai-agent-engineering-for-business-intelligence-externship/"><img src="https://frankponce.dev/images/projects/wayfair.png" alt="Wayfair AI agents" width="100%"/></a>
 <h3>🤖 Wayfair AI agents</h3>
 Four n8n agents for trend discovery, competitor monitoring and content strategy, feeding a live category-intelligence dashboard.<br/><br/>
-<a href="https://frankponce.dev/work/wayfair-ai-agent-engineering-for-business-intelligence-externship/"><img src="https://img.shields.io/badge/Workflows%20%2B%20dashboard-E3242B?style=flat-square" alt="Workflows and dashboard"/></a>
+<a href="https://frankponce.dev/work/wayfair-ai-agent-engineering-for-business-intelligence-externship/"><img src="https://img.shields.io/badge/Workflows%20%2B%20dashboard-DC143C?style=flat-square" alt="Workflows and dashboard"/></a>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ NLP and forecasting on 4,900+ public job postings from Google, OpenAI, NVIDIA an
 <a href="https://frankponce.dev/work/vista-trade/"><img src="https://frankponce.dev/images/projects/vistatrade-dashboard.jpg" alt="VistaTrade dashboard" width="100%"/></a>
 <h3>💸 VistaTrade</h3>
 A free paper-trading and learning platform: live US stock prices, $10,000 of virtual money, an 8-lesson beginner course and a LightGBM forecast tested against simple baselines.<br/><br/>
-<a href="https://vista-trade.vercel.app"><img src="https://img.shields.io/badge/Live%20app-E3242B?style=flat-square" alt="Live app"/></a>
+<a href="https://vista-trade.vercel.app"><img src="https://img.shields.io/badge/Live%20app-DC143C?style=flat-square" alt="Live app"/></a>
 <a href="https://github.com/FrankPonce/VistaTrade"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
 <a href="https://frankponce.dev/work/vista-trade/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
 </td>
@@ -83,6 +83,6 @@ A free paper-trading and learning platform: live US stock prices, $10,000 of vir
 
 🇬🇧 English · 🇪🇸 Español · 🇧🇷 Português (intermediate)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3242B,40:5a1418,100:1c1b1b&height=110&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,40:5a1418,100:1c1b1b&height=110&section=footer" alt="" width="100%"/>
 
 </div>
