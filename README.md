@@ -83,14 +83,24 @@ My alt, emo and y2k clothing label: a store built from scratch with Stripe Check
 <a href="https://frankponce.dev/work/stray-club/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://frankponce.dev/work/taloksi/"><img src="https://frankponce.dev/images/projects/taloksi-banner.svg" alt="Taloksi" width="100%"/></a>
+<h3>🇫🇮 Taloksi</h3>
+A free app teaching Finnish the way it's actually spoken, side by side with the textbook version, plus citizenship-test practice. One React Native codebase for web, iOS and Android.<br/><br/>
+<a href="https://github.com/FrankPonce/taloksi"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
+<a href="https://frankponce.dev/work/taloksi/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://frankponce.dev/work/gradient-course/"><img src="https://frankponce.dev/images/projects/gradient-banner.webp" alt="GRADIENT" width="100%"/></a>
+<h3>🎓 GRADIENT</h3>
+An adaptive AI, data and engineering course: 141 lessons, ~850 questions and 65 coding problems, all running in the browser with no backend.<br/><br/>
+<a href="https://frankponce.me/gradient-course/"><img src="https://img.shields.io/badge/Play%20it-910011?style=flat-square" alt="Play it"/></a>
+<a href="https://github.com/FrankPonce/gradient-course"><img src="https://img.shields.io/badge/Repo-1c1b1b?style=flat-square&logo=github" alt="Repository"/></a>
+<a href="https://frankponce.dev/work/gradient-course/"><img src="https://img.shields.io/badge/Case%20study-3a3a3a?style=flat-square" alt="Case study"/></a>
+</td>
+</tr>
 </table>
-
-### Also building
-
-| | |
-|---|---|
-| 🇫🇮 **[Taloksi](https://github.com/FrankPonce/taloksi)** | A free app teaching Finnish the way it's actually spoken, with citizenship-test practice. React Native, web/iOS/Android. |
-| 🎓 **[GRADIENT](https://github.com/FrankPonce/gradient-course)** | An adaptive AI, data and engineering course: 141 lessons, ~850 questions, 65 coding problems, all in the browser. [Play it](https://frankponce.me/gradient-course/) |
 
 ### Research
 
